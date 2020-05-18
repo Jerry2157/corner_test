@@ -1,0 +1,9 @@
+# Python Cached files
+__pycache__/
+**.pyc
+.idea/
+.DS_Store
+
+# Virtual environment and locals modules
+venv/
+.vscode/
